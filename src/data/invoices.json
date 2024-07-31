@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "client": "Acme Corporation",
+    "items": [
+      { "description": "Website Development", "quantity": 1, "price": 3000 },
+      { "description": "Monthly Maintenance", "quantity": 6, "price": 200 }
+    ]
+  },
+  {
+    "id": 2,
+    "client": "Globex Corporation",
+    "items": [
+      { "description": "Mobile App Development", "quantity": 1, "price": 5000 },
+      { "description": "Server Hosting", "quantity": 12, "price": 100 }
+    ]
+  },
+  {
+    "id": 3,
+    "client": "Soylent Corp",
+    "items": [
+      {
+        "description": "Custom Software Development",
+        "quantity": 1,
+        "price": 8000
+      },
+      { "description": "Technical Support", "quantity": 10, "price": 150 }
+    ]
+  },
+  {
+    "id": 4,
+    "client": "Initech",
+    "items": [
+      { "description": "Cloud Migration", "quantity": 1, "price": 2000 },
+      { "description": "Data Backup Service", "quantity": 24, "price": 50 }
+    ]
+  },
+  {
+    "id": 5,
+    "client": "Umbrella Corporation",
+    "items": [
+      { "description": "Network Security Setup", "quantity": 1, "price": 2500 },
+      { "description": "Monthly Monitoring", "quantity": 6, "price": 300 }
+    ]
+  }
+]
